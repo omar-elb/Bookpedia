@@ -45,14 +45,14 @@ import kotlin.math.round
 @Composable
 fun BookListItem(
     book: Book,
-    onClcik: () -> Unit,
+    onClick: () -> Unit,
     modifier: Modifier = Modifier
 ) {
     Surface(
         shape = RoundedCornerShape(32.dp),
         color = LightBlue.copy(alpha = 0.2f),
         modifier = modifier
-            .clickable(onClick = onClcik),
+            .clickable(onClick = onClick),
     ) {
         Row(
             modifier = Modifier

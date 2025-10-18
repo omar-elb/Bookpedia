@@ -39,7 +39,7 @@ fun BookList(
                     .widthIn(max = 700.dp)
                     .fillMaxWidth()
                     .padding(horizontal = 16.dp),
-                onClcik = {
+                onClick = {
                     onBookClick(book)
                 }
             )
