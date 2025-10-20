@@ -6,6 +6,15 @@
     <string name="favorites">Favorites</string>
     <string name="no_search_results">No search results</string>
     <string name="no_favorites">No favorites</string>
+    <string name="book_cover">Book cover</string>
+    <string name="rating">Rating</string>
+    <string name="pages">Pages</string>
+    <string name="languages">Languages</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="description_unavailable">Description unavailable</string>
+    <string name="go_back">Go back</string>
+    <string name="mark_as_favorite">Mark as favorite</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
     <string name="error_disk_full">Disk full</string>
     <string name="error_unknown">Unknown</string>
     <string name="error_request_timeout">Request timeout</string>
