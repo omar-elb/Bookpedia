@@ -2,7 +2,7 @@
 
 Bookpedia is a Kotlin Multiplatform application that allows users to search for books and explore detailed information such as title, author, publication date, and description.
 
-It uses a shared Kotlin codebase for networking, data models, and business logic, while delivering a native UI experience on each platform.
+It uses a shared Kotlin codebase for networking, data models, and business logic.
 ---------------------------------------------------------------
 ✨ Features
 
@@ -10,7 +10,7 @@ It uses a shared Kotlin codebase for networking, data models, and business logic
 
 📖 View detailed book information (title, author, description, publication date, etc.)
 
-🌍 Cross-platform support (Android, iOS, Desktop, Web)
+🌍 Cross-platform support (Android, iOS, Desktop)
 
 ⚡ Shared Kotlin code for logic and networking
 
